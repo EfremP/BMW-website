@@ -1,0 +1,16 @@
+header{
+    background: maroon;
+    border: width 400px;
+    
+
+}
+main-content{
+    background:greenyellow;
+    flex-flow: 0
+    max-width: width 500px;
+
+    
+}
+secondary-content{
+    background:blue;
+}
